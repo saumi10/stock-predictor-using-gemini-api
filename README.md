@@ -13,6 +13,10 @@ The application presents a simple form where users can enter fundamental financi
 
 The resulting HTML, containing the calculated ratios and AI-generated assessment, is then displayed directly within the application.
 
+![image](https://github.com/user-attachments/assets/7d2a921e-f49c-4bd7-938d-b20a1f70d131)
+
+
+
 ## Features
 
 *   **Intuitive Input Form:** Easily enter relevant financial metrics for a stock.
