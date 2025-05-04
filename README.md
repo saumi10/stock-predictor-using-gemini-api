@@ -13,8 +13,11 @@ The application presents a simple form where users can enter fundamental financi
 
 The resulting HTML, containing the calculated ratios and AI-generated assessment, is then displayed directly within the application.
 
+**INPUT FORM**
 ![image](https://github.com/user-attachments/assets/7d2a921e-f49c-4bd7-938d-b20a1f70d131)
 
+**RECOMMENDATION AND INSIGHTS**
+![image](https://github.com/user-attachments/assets/23206f6a-46a1-461a-95cc-4ef82334f1fe)
 
 
 ## Features
